@@ -1,0 +1,112 @@
+
+
+
+body{
+    background-color:    #ffbb99e0
+
+
+    ;
+}
+.navbar-light{
+    background-color:#fff;
+}
+
+
+
+h5, p{
+color: rgb(247, 244, 244);
+}
+
+
+.nav-link{
+
+    color: rgba(0, 0, 0, 0.568);
+    font-family: 'Pacifico', cursive;
+}
+
+.nav-link:hover{
+    color: rgb(8, 8, 8);
+}
+
+.nav-link:visited{
+    color: rgb(8, 8, 8);
+}
+
+.logo{
+
+    width: 100px;
+    height: 70px;
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+    .navbar-nav{
+
+
+        text-align: center;
+        background-color:  #ffbb99e0
+    }
+
+}
+
+
+@media (max-width: 768px){
+    .navbar-nav{
+
+
+        text-align: center;
+        background-color:  #ffbb99e0
+        ;
+    }
+        .navbar-nav a:hover {
+            background-color: cyan;
+            }
+
+    }
+
+    @media (max-width: 479px){
+
+        .navbar-nav{
+
+
+            text-align: center;
+            background-color:  #ffbb99e0
+            ;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 991px){
+
+        .navbar-nav{
+
+
+            text-align: center;
+            background-color:  #ffbb99e0
+            ;
+        }
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
